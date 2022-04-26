@@ -1,0 +1,17 @@
+.box1{
+    position:fixed;
+      top:0;
+      left:0;
+      width:150px;
+      height:150px;
+      background-color: rgb(255, 106, 0);
+      margin: 10px 10px 10px 10px;
+}
+.box2{
+    width: 50px;
+      height: 50px;
+      top: 33%;
+      margin: auto;
+      position: relative;
+      background:rgb(0, 122, 122);    
+}

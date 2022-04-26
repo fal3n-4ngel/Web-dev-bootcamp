@@ -1,0 +1,15 @@
+.r1{
+    border: solid;
+    margin:20px 15% 10px 15%;
+    border-radius:20px;
+    border-color: red;
+    padding: 30px;
+    }
+
+.r2{
+        border: solid;
+        margin:20px 15% 10px 15%;
+        border-radius: 50px 20px 50px 20px;
+        border-color: red;
+        padding: 30px;
+        }

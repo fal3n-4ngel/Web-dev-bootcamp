@@ -1,0 +1,21 @@
+.frame{
+    margin:20px;
+   
+}.container{
+    text-align: center;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.citems{
+    
+    margin: 10px;
+    width: 350px;
+    height: 50px;
+    border: solid;
+    border-width: 1px;
+    
+    
+}

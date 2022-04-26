@@ -1,0 +1,84 @@
+body{
+    background-image: url('banner.jpg');
+    background-position: center; 
+    background-size: 100%;
+    
+}
+.container{
+    
+    display:flex;   
+}
+.box{
+    margin: 20px auto;
+    background-color: whitesmoke;
+    width: 440px;
+    height: 610px;
+    
+    
+}
+h1{
+    text-align: center;
+    font-size: 26px;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.line{
+    margin: 10px 15px auto 15px;
+    background-color: rgba(209, 209, 209, 0.56);
+    width: auto;
+    height: 1px;
+}
+.line2{
+    margin: 20px 15px auto 15px;
+    background-color: rgba(209, 209, 209, 0.56);
+    width: auto;
+    height: 1px;
+}
+.label1{
+    text-align: left;
+    margin: 10px 15px auto;
+    font-size: 26;
+    font-weight: 700;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+input[type=text], select {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgba(232, 232, 232, 0.404);
+    width: 90%;
+    padding: 10px;
+    margin: 5px 5% 0px 5%;
+    display: inline-block;
+    border: 0px solid #ccc;
+    border-radius: 25px;
+    box-sizing: border-box;
+  }
+  input[type=date], select {
+    
+    background-color: rgba(232, 232, 232, 0.404);
+    width: 90%;
+    padding: 10px;
+    margin: 5px 5% 0px 5%;
+    display: inline-block;
+    border: 0px solid #ccc;
+    border-radius: 25px;
+    box-sizing: border-box;
+    
+  }
+  input[type=submit], select {
+    
+    background-color: rgba(1, 1, 1, 0.825);
+    width: 90%;
+    padding: 10px;
+    margin: 20px 5% 10px 5%;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 0px;
+    box-sizing: border-box;
+    
+  }
+  
+  
+  
+  .inptext{
+      color: azure;
+  }

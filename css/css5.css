@@ -1,0 +1,14 @@
+.p1{
+    border: solid;
+    border-width: 20px;
+    background-color: lightslategrey;
+    margin-top: 40px;
+    margin-left: 50px;
+    margin-right: 910px;
+    margin-bottom: 40px;
+    padding: 80px;
+    font-size: 20px;
+}
+p{
+    font-size:20px;
+}

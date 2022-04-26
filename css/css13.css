@@ -1,0 +1,19 @@
+.frame{
+    margin:20px;
+}.container{
+    display:flex;
+    justify-content: space-between;
+}
+.container2{
+    display:flex;
+    justify-content:space-between;
+}
+
+.citems{
+    margin: 10px;
+    width: 150px;
+    height: 100px;
+    border: solid;
+    
+    
+}
